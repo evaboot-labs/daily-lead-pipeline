@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "evaboot": {
+      "type": "http",
+      "url": "https://mcp.evaboot.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${EVABOOT_API_KEY}"
+      }
+    },
+    "lemlist": {
+      "type": "http",
+      "url": "https://app.lemlist.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${LEMLIST_API_KEY}"
+      }
+    }
+  }
+}
