@@ -1,0 +1,14 @@
+{
+  "name": "evaboot-labs-daily-lead-pipeline",
+  "owner": { "name": "Evaboot", "url": "https://evaboot.com" },
+  "metadata": {
+    "description": "New Sales Navigator leads every day, saved in your CRM, with one AI-written email each in your outreach campaign."
+  },
+  "plugins": [
+    {
+      "name": "daily-lead-pipeline",
+      "source": "./",
+      "description": "Set up a daily Evaboot recurring export and a scheduled Claude task that saves the new leads in HubSpot and adds each one with its own email to a lemlist campaign."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{"layout": "flow", "eyebrow": "evaboot-labs · daily-lead-pipeline", "headline": "New leads. Every day.",
+ "subline": "Sales Navigator in. CRM contacts and one AI email per lead out.",
+ "nodes": [{"label": "01 · Search", "title": "Sales Navigator", "caption": "Your search, run daily"},
+           {"label": "02 · Export", "title": "Evaboot", "caption": "Only new people, safe emails"},
+           {"label": "03 · Write", "title": "Claude task", "caption": "CRM contact + one email each"},
+           {"label": "04 · Result", "title": "Any outreach tool", "caption": "lemlist here, you start it"}],
+ "spec": "server <em>mcp.evaboot.com/mcp</em> · nothing is sent without you"}

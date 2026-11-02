@@ -1,0 +1,13 @@
+{
+  "name": "daily-lead-pipeline",
+  "version": "1.0.0",
+  "description": "Set up a daily Evaboot recurring export and a scheduled Claude task that saves the new leads in HubSpot and adds each one with its own email to a lemlist campaign.",
+  "author": { "name": "Evaboot", "url": "https://evaboot.com" },
+  "homepage": "https://evaboot.com/blog/build-an-automated-linkedin-pipeline",
+  "repository": "https://github.com/evaboot-labs/daily-lead-pipeline",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://evaboot.com/privacy-policy",
+  "keywords": ["sales-navigator", "recurring-export", "cold-email", "lemlist", "hubspot", "evaboot", "mcp", "scheduled-task"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
